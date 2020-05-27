@@ -1,0 +1,29 @@
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  border-radius: 44px;
+  border-style:groove;
+}
+
+@font-face{
+  font-family:Simpsonfont;
+  src:url(Simpsonfont.otf);
+}
+
+@font-face {
+font-family: Simpsonfont;
+src:url(Simpsonfont.otf);
+font-weight: bold;
+}
+
+/* Style the body */
+body {
+  font-family: Simpsonfont ;
+  margin: 0;
+}
+div {
+  font-family: Simpsonfont;
+}
+
+  

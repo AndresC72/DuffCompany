@@ -1,0 +1,101 @@
+@font-face{
+    font-family:Simpsonfont;
+    src:url(Simpsonfont.otf);
+}
+
+@font-face {
+  font-family: Simpsonfont;
+  src:url(Simpsonfont.otf);
+  font-weight: bold;
+}
+
+
+
+
+.h1 {
+    
+    font-family: Simpsonfont;
+   
+
+  }
+
+
+
+
+
+
+div {
+    font-family: Simpsonfont;
+  }
+  
+  h2 {
+    color: #FEC108;
+    font-family: Simpsonfont;
+  }
+  
+  th {
+    color: #FEC108;
+    font-size: 25px;
+    font-family: Simpsonfont;
+  }
+  
+  .table {
+    background-color: #ffffff;
+  }
+  
+  h3 {
+    color: #23bac3;
+    font-family: Simpsonfont;
+  }
+  
+  td {
+    color: #23bac3;
+  }
+  
+  footer .jumbotron {
+    background-color: #23bac3;
+    border-top: 8px solid #f62384;
+  }
+
+  .jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color:#88221f;
+    border-radius: 44px;
+    border-style:groove; 
+    border-color:#f00;
+    border-width: 40px;
+}
+
+
+  .bg-company-red {
+    background-color: #88221f;
+    border-bottom: 8px solid #d3b388;
+}
+  
+  #carousel-inner {
+    border-style: solid;
+    border-color: coral;
+  }
+  
+
+
+  #myDIV {
+    width: 235px;
+    height: 180px;
+    border-radius: 35px;
+    background-color: #e7e7e7;
+    color: white;
+    animation: mymove 5s infinite;
+
+
+  }
+  
+  @keyframes mymove {
+    50% {box-shadow: 20px 20px 30px blue;}
+  }
+
+  
+
+
+  
